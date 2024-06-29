@@ -1,0 +1,13 @@
+{
+  "name": "restaurant-ordering-app",
+  "description": "A restaurant ordering app",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vite": "latest"
+  }
+}
